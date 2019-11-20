@@ -1,7 +1,9 @@
 # MKT J170456.2-482100: manuscript plots
 
 This repo contains the Jupyter Notebooks and Python scripts for producing Figures 2, 4, 5, 6, 8,  10, 11 and 12 in
+
 [![DOI](https://zenodo.org/badge/doi/10.1093/mnras/stz3027.svg)](https://doi.org/10.1093/mnras/stz3027)
+
 (and is also available open access <a href="http://arxiv.org/abs/1911.07713">on ArXiv</a>).
 
 <ul>
@@ -12,3 +14,7 @@ This repo contains the Jupyter Notebooks and Python scripts for producing Figure
   <li><em>SpectralEnergyDistribution.ipynb</em> contains the code for making Figure 6</li>
   <li><em>Gudel_Plot.ipynb</em> contains the code for making Figure 12</li>
 </ul>
+
+The DOI for this github repo is:
+
+[![DOI](https://zenodo.org/badge/222704083.svg)](https://zenodo.org/badge/latestdoi/222704083)
