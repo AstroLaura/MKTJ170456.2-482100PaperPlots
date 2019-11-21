@@ -9,7 +9,6 @@ This repo contains the Jupyter Notebooks and Python scripts for producing Figure
 ## The data required to run these notebooks and scripts can be found here:
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3548868.svg)](https://doi.org/10.5281/zenodo.3548868)
-reStructedText
 
 ### The notebook ands scripts
 
@@ -78,3 +77,5 @@ For full information on how to correctly cite the datasets listed here, please s
 The DOI for this github repo is:
 
 [![DOI](https://zenodo.org/badge/222704083.svg)](https://zenodo.org/badge/latestdoi/222704083)
+
+<b>If you use the data or code in this repo, please make sure you cite it correctly!</b>
