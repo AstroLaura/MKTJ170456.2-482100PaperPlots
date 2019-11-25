@@ -79,3 +79,5 @@ The DOI for this github repo is:
 [![DOI](https://zenodo.org/badge/222704083.svg)](https://zenodo.org/badge/latestdoi/222704083)
 
 <b>If you use the data or code in this repo, please make sure you cite it correctly!</b>
+
+I am part of the <a href="http://www.meertrap.org">MeerTRAP</a> team, based at the University of Manchester and funded by the European Research Council (ERC) under the European Union's Horizon 2020 research and innovation programme (grant agreement No 694745).
