@@ -10,7 +10,7 @@ This repo contains the Jupyter Notebooks and Python scripts for producing Figure
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3548868.svg)](https://doi.org/10.5281/zenodo.3548868)
 
-### The notebook ands scripts
+### The notebook and scripts
 
 <ul>
   <li><em>Process_Optical_Data.ipynb</em> (or <em>Process_Optical_Data.py</em>) uses the functions in <em>Optical_Processing_Functions.py</em> to read and manipulate the ASAS, ASAS-SN and KELT data</li>
